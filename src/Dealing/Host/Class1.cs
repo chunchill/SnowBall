@@ -1,4 +1,4 @@
-﻿namespace Dealing.Infrastructure
+﻿namespace Dealing.Host
 {
     public class Class1
     {

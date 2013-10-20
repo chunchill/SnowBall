@@ -7,8 +7,8 @@
     <ProjectGuid>{2FD41EA8-CC7C-484C-B7CF-874B4BAA9AD6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Core</RootNamespace>
-    <AssemblyName>Core</AssemblyName>
+    <RootNamespace>Dealing.Core</RootNamespace>
+    <AssemblyName>Dealing.Core</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

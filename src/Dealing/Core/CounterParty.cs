@@ -1,4 +1,4 @@
-﻿namespace Core
+﻿namespace Dealing.Core
 {
     public class CounterParty
     {
